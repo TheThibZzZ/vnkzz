@@ -1,0 +1,42 @@
+{
+    "cars": [
+        {
+            "id": 1,
+            "name": "Ford",
+            "model": "Fiesta",
+            "year": "2010"
+        },
+        {
+            "id": 2,
+            "name": "Porsche",
+            "model": "Panamera",
+            "year": "2019" 
+        },
+        {
+            "id": 3,
+            "name": "Ferrari",
+            "model": "488",
+            "year": "2015" 
+        }
+    ],
+    "details": [
+        {
+            "id": 1,
+            "date": "2009",
+            "picture": "../../src/assets/land.jpg",
+            "nb": "2500000"
+        },
+        {
+            "id": 2,
+            "date": "2002",
+            "picture": "../../src/assets/land.jpg",
+            "nb": "50000"
+        },
+        {
+            "id": 3,
+            "date": "2015",
+            "picture": "../../src/assets/land.jpg",
+            "nb": "1500"
+        }
+    ]
+}
